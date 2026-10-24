@@ -1,0 +1,285 @@
+# English<TAB>Simplified Chinese. Exact UI resource values only.
+Build Analyzer	构建分析器
+STM32CubeIDE Build Analyzer	STM32CubeIDE 构建分析器
+Pin Build Analyzer	固定构建分析器
+Refresh Build Analyzer	刷新构建分析器
+Memory Details	存储器详情
+Memory Regions	存储区域
+Show Byte	显示字节数
+Show Hex	显示十六进制
+Show Human	显示易读单位
+Load address (LMA)	加载地址（LMA）
+Run address (VMA)	运行地址（VMA）
+Selection:	所选项：
+Selection: ...	所选项：...
+Size	大小
+Free	可用
+Used	已用
+Region	区域
+Address	地址
+Start address	起始地址
+End address	结束地址
+Usage (%)	使用率（%）
+Unable to find symbol	找不到符号
+The symbol {0} was not found in your workspace.	在工作空间中找不到符号 {0}。
+No device	无设备
+Device	设备
+Device configuration	设备配置
+Open device configuration	打开设备配置
+New device name	新设备名称
+New region address	新区域地址
+New region name	新区域名称
+New region size	新区域大小
+New vendor name	新厂商名称
+Remove device	移除设备
+Remove memory region	移除存储区域
+Size (K)	大小（K）
+Browse...	浏览...
+Linker script:	链接脚本：
+Build Properties	构建属性
+Static Stack Analyzer	静态栈分析器
+STM32CubeIDE Static Stack Analyzer	STM32CubeIDE 静态栈分析器
+Local cost uncertain due to dynamic size, verify at runtime	存在动态分配，局部栈用量不确定，请在运行时验证
+Local cost uncertain due to inline assembler, verify at runtime	存在内联汇编，局部栈用量不确定，请在运行时验证
+Local cost uncertain due to inline assembler and dynamic size, verify at runtime	存在内联汇编和动态分配，局部栈用量不确定，请在运行时验证
+Max cost uncertain	最大栈用量不确定
+No stack usage information available for this function	没有此函数的栈用量信息
+Recursive	递归
+Search...	搜索...
+Case sensitive	区分大小写
+Call graph	调用图
+Depth	深度
+Function	函数
+Hide dead code	隐藏不可达代码
+Info	信息
+List	列表
+Local cost	局部栈用量
+Location	位置
+Max cost	最大栈用量
+Elf had no line information, please enable debug information in the compiler settings. Some information will be missing.	ELF 文件没有行号信息，请在编译器设置中启用调试信息。部分信息将无法显示。
+No stack usage information found, please enable in the compiler settings	未找到栈用量信息，请在编译器设置中启用
+This view is only available for ARM projects	此视图仅适用于 ARM 项目
+Analyzing sources...	正在分析源文件...
+Analyzing elf file...	正在分析 ELF 文件...
+Constructing call graph...	正在构建调用图...
+Presenting...	正在显示结果...
+Pin Stack Analyzer	固定栈分析器
+Refresh Stack Analyzer	刷新栈分析器
+Cyclomatic Complexity	圈复杂度
+STM32CubeIDE Cyclomatic Complexity	STM32CubeIDE 圈复杂度
+Pin Cyclomatic Complexity	固定圈复杂度视图
+Refresh Cyclomatic Complexity	刷新圈复杂度视图
+progress Constructing Call Graph	正在构建调用图
+Search by function name ...	按函数名搜索...
+Complexity Ceiling	复杂度上限
+Complexity	复杂度
+No Cyclomatic Complexity information found, please enable in the compiler settings	未找到圈复杂度信息，请在编译器设置中启用
+Toolchain Manager	工具链管理器
+The Toolchain Manager allows users to configure the workspace toolchain, and manage installed toolchains.	工具链管理器用于配置工作空间的工具链，并管理已安装的工具链。
+Configure the workspace toolchain, and manage installed toolchains.	配置工作空间工具链并管理已安装的工具链。
+Use workspace setting ({0})	使用工作空间设置（{0}）
+GNU Tools for STM32 (GCC) Toolchain	GNU Tools for STM32（GCC）工具链
+ST-ARM-CLANG Toolchain	ST-ARM-CLANG 工具链
+Default	默认
+State	状态
+Not installed	未安装
+Installed	已安装
+Reload	重新加载
+Reload the toolchains list from the repository	从软件仓库重新加载工具链列表
+Install...	安装...
+Install missing toolchain(s)	安装缺少的工具链
+Uninstall...	卸载...
+Set Default	设为默认
+By default let STM32CubeIDE select the GCC toolchain to use.	默认由 STM32CubeIDE 选择使用的 GCC 工具链。
+The ST Arm CLang toolchain is only supported with CMake based projects.	ST Arm Clang 工具链仅支持基于 CMake 的项目。
+Note: installing and uninstalling toolchains requires a restart of STM32CubeIDE.	注意：安装或卸载工具链后需要重启 STM32CubeIDE。
+Fetching toolchain list...	正在获取工具链列表...
+Open Toolchain Manager...	打开工具链管理器...
+Network error...	网络错误...
+Failed to fetch the toochain list, please check your network settings.	无法获取工具链列表，请检查网络设置。
+Edit invalid project settings...	编辑无效的项目设置...
+Toolchain	工具链
+Reason	原因
+Please fix required invalid build configurations	请修正所需的无效构建配置
+Some build configuration are still invalid	部分构建配置仍然无效
+The following build configurations do not have valid Toolchain settings:	以下构建配置没有有效的工具链设置：
+STM32 CMake Project	STM32 CMake 项目
+Creates a new STM32 CMake Project	创建新的 STM32 CMake 项目
+Create a STM32 CMake project using existing CMake sources	使用现有 CMake 源文件创建 STM32 CMake 项目
+CMake Configure	配置 CMake
+CMake Refresh Preset	刷新 CMake 预设
+CMake Settings	CMake 设置
+CMake Configure Builder	CMake 配置构建器
+STM32 Project	STM32 项目
+STM32 Project from MCU / MPU Device	从 MCU / MPU 设备创建 STM32 项目
+STM32 Project from Board Device	从开发板创建 STM32 项目
+Target Selection	选择目标器件
+Select STM32 target or STM32Cube example	选择 STM32 目标器件或 STM32Cube 示例
+Select STM32 MCU / MPU device	选择 STM32 MCU / MPU 设备
+Select STM32 board device	选择 STM32 开发板
+STM32 target or STM32Cube example selection is required	必须选择 STM32 目标器件或 STM32Cube 示例
+STM32 STM32 MCU / MPU device selection is required	必须选择 STM32 MCU / MPU 设备
+STM32 board device selection is required	必须选择 STM32 开发板
+Project Setup	项目设置
+Setup STM32 project	设置 STM32 项目
+Firmware Library Package Setup	固件库软件包设置
+Setup STM32 target's firmware	设置 STM32 目标器件的固件
+Project Name:	项目名称：
+Use default location	使用默认位置
+Location:	位置：
+Browse For Folder	浏览文件夹
+Select the location directory.	选择目标目录。
+Remove Conflicting Project From WorkSpace	从工作空间移除冲突的项目
+Options	选项
+Targeted Language	目标语言
+Targeted Device Usage	目标设备用途
+Enable TrustZone	启用 TrustZone
+Enable Multi Cpus Configuration	启用多核配置
+Project Structure	项目结构
+Code Generator Options	代码生成器选项
+Import Options	导入选项
+Target and Firmware Package	目标器件与固件包
+Target Reference:	目标型号：
+Firmware Package Name and Version:	固件包名称与版本：
+Software Package Name and Version:	软件包名称与版本：
+Firmware and Software Package Repository	固件和软件包仓库
+See <a>''{0}''</a> for settings related to package installation	有关软件包安装设置，请参阅 <a>''{0}''</a>
+See <a>''{0}''</a> for settings related to %s	有关 %s 的设置，请参阅 <a>''{0}''</a>
+Wrong project selection	项目选择错误
+Runtime Target Injection	运行时目标注入
+Perform Project Creation. Please Wait For Completion ...	正在创建项目，请等待完成...
+STM32 Project From Existing STM32CubeMX Configuration File (.ioc)	从现有 STM32CubeMX 配置文件（.ioc）创建 STM32 项目
+File:	文件：
+Browse for existing STM32CubeMX configuration file (.ioc)	浏览现有 STM32CubeMX 配置文件（.ioc）
+Empty STM32CubeMX configuration file (.ioc) is not supported	不支持空的 STM32CubeMX 配置文件（.ioc）
+STM32CubeMX configuration file (.ioc) location is invalid	STM32CubeMX 配置文件（.ioc）位置无效
+STM32CubeMX configuration file (.ioc) target is invalid	STM32CubeMX 配置文件（.ioc）的目标器件无效
+STM32CubeMX configuration file (.ioc) target is not supported	不支持 STM32CubeMX 配置文件（.ioc）的目标器件
+STM32 Project from STM32Cube Examples	从 STM32Cube 示例创建 STM32 项目
+Select STM32Cube example	选择 STM32Cube 示例
+Example selection is required	必须选择示例
+Example Project Import	导入示例项目
+Example Import	导入示例
+Example Copy	复制示例
+Example Copy Setup	示例复制设置
+Example Copy to Local Repository	将示例复制到本地仓库
+Selected STM32Cube example reference IDE is not supported	不支持所选 STM32Cube 示例使用的 IDE
+Selected STM32Cube example target device is not supported	不支持所选 STM32Cube 示例的目标设备
+Selected example is still in development and may not be fully functional	所选示例仍在开发中，功能可能不完整
+Selected example is not supported currently by this IDE	当前 IDE 不支持所选示例
+Fail to get required STM32Cube firmware package	无法获取所需的 STM32Cube 固件包
+Fail to get required STM32Cube software package	无法获取所需的 STM32Cube 软件包
+Fail to perform local copy	本地复制失败
+Fail to get local example copy	无法获取本地示例副本
+Fail on internal error	操作失败：内部错误
+STM32 C/C++ Application	STM32 C/C++ 应用程序
+Default GDB Server	默认 GDB 服务器
+Failed to start SWV session	无法启动 SWV 会话
+Failed to start Live data adapter	无法启动实时数据适配器
+Connection to target failed	连接目标失败
+Core Clock (MHz):	内核时钟（MHz）：
+Limit SWO clock	限制 SWO 时钟
+Maximum SWO clock (kHz):	最大 SWO 时钟（kHz）：
+auto detect	自动检测
+Error launching GDB server	启动 GDB 服务器出错
+Error launching GDB server. Session terminated	启动 GDB 服务器出错，会话已终止
+Could not enable SWV	无法启用 SWV
+C/C++ Application:	C/C++ 应用程序：
+Search Project...	搜索项目...
+Workspace...	工作空间...
+Binary File Selection	选择二进制文件
+Select your binary file (.bin or .elf)	选择二进制文件（.bin 或 .elf）
+Two or more programs specified are the same	指定的两个或多个程序相同
+Only elf applications are supported.	仅支持 ELF 应用程序。
+Autostart local GDB server	自动启动本地 GDB 服务器
+Read action	读取操作
+Access permission	访问权限
+Reading disabled by	禁止读取的条件
+Configure	配置
+Base address	基地址
+Bit field	位域
+Refresh SVD data	刷新 SVD 数据
+Don't follow selection	不跟随所选项
+SFRs	特殊功能寄存器（SFR）
+Add new expression	添加新表达式
+Expression	表达式
+Fail	失败
+Failed to evaluate expression	表达式求值失败
+Feature not available	功能不可用
+Binary	二进制
+Decimal	十进制
+Hex	十六进制
+Octal	八进制
+String	字符串
+Number Format	数字格式
+Remove All	全部移除
+Live Expressions	实时表达式
+Number of events	事件数
+Index	索引
+Data	数据
+Cycles	周期数
+Times	次数
+Extra	附加信息
+Unknown	未知
+Not defined	未定义
+Configure trace	配置跟踪
+Remove all collected SWV-data	清除所有已采集的 SWV 数据
+Save as	另存为
+Longer Y-Axis	扩大 Y 轴范围
+Shorter Y-Axis	缩小 Y 轴范围
+Adjust the Y-Axis to best fit	自动调整 Y 轴范围
+Zoom out	缩小
+Zoom in	放大
+Enable titles	显示标题
+Disable titles	隐藏标题
+Switch between seconds and cycles scale	切换秒数与周期数刻度
+Clock Prescaler	时钟预分频器
+Clock Settings	时钟设置
+Core Clock	内核时钟
+SWO Clock	SWO 时钟
+Access	访问
+Data size to trace	跟踪数据大小
+Generate	生成
+Generate this on access	访问时生成
+Generate trace events on access	访问时生成跟踪事件
+READ	读取
+WRITE	写入
+Watch	监视
+History	历史记录
+Time	时间
+Time(s)	时间（秒）
+Scroll Lock	滚动锁定
+ITM Port number {0}	ITM 端口号 {0}
+Clear Console	清空控制台
+Port {0}	端口 {0}
+Add Port	添加端口
+Serial Wire Viewer	串行线查看器（SWV）
+Trace buffer size	跟踪缓冲区大小
+Overflow packets	溢出数据包
+PC Samples	PC 采样
+% in use	使用率 %
+Samples	采样数
+Unknown function	未知函数
+Counter overflow	计数器溢出
+Data trace address offset	数据跟踪地址偏移
+Data PC value	数据 PC 值
+SWV Trace Log	SWV 跟踪日志
+SWV ITM Data Console	SWV ITM 数据控制台
+SWV Statistical Profiling	SWV 统计分析
+SWV Exception Trace Log	SWV 异常跟踪日志
+SWV Data Trace	SWV 数据跟踪
+SWV Data Trace Timeline Graph	SWV 数据跟踪时间线图
+Config	配置
+Bus Fault Details	总线故障详情
+Detected unsupported CPU {0}	检测到不支持的 CPU：{0}
+Feature only available for the following CPU cores:	此功能仅适用于以下 CPU 内核：
+Hard Fault Details	硬故障详情
+Memory Management Fault Details	存储器管理故障详情
+Secure Fault Details	安全故障详情
+Usage Fault Details	用法故障详情
+No debug session active	没有活动的调试会话
+No Fault Detected	未检测到故障
+Bus Fault Detected	检测到总线故障
+Hard Fault Detected	检测到硬故障
+Memory Management Fault Detected	检测到存储器管理故障
+Fault Analyzer	故障分析器

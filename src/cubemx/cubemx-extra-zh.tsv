@@ -1,0 +1,133 @@
+# Exact display text additions for STM32CubeMX 6.18.1-RC2.
+Overview	概览
+Large Picture	大图
+Mounted Device	板载器件
+Mounted Devices	板载器件
+Unit Price (US$)	单价（美元）
+Unit Price for 10ku	万片单价
+Unit Price for 10ku (US$)	万片单价（美元）
+Flash	闪存
+RAM	RAM
+Ext. Flash	外部闪存
+Ext. EEPROM	外部 EEPROM
+Ext. RAM	外部 RAM
+Flash Memory	闪存
+RAM Memory	RAM 存储器
+Maximum Frequency	最高频率
+Frequency	频率
+Freq.	频率
+I/Os	I/O 数量
+IO	I/O 数量
+Temperature	温度
+Operating Temperature	工作温度
+Operating Voltage	工作电压
+Development Tools	开发工具
+Documentation	文档
+Application Notes	应用笔记
+Reference Manual	参考手册
+User Manual	用户手册
+Programming Manual	编程手册
+Errata Sheet	勘误手册
+Getting Started	入门指南
+Quick Start Guide	快速入门指南
+Software Package	软件包
+Software Packages	软件包
+Embedded Software Packages Manager	嵌入式软件包管理器
+Package Manager	软件包管理器
+Install	安装
+Uninstall	卸载
+Install Now	立即安装
+Install from Local ...	从本地安装...
+From Local ...	从本地安装...
+Check for Updates...	检查更新...
+Installed	已安装
+Not Installed	未安装
+Available	可用
+Version	版本
+Latest Version	最新版本
+Release Notes	版本说明
+Refresh List	刷新列表
+Select All	全选
+Deselect All	取消全选
+Select None	全部取消
+Select a Board	选择开发板
+Select a Device	选择器件
+Save Filters	保存筛选条件
+Load Filters	加载筛选条件
+Reset Filters	重置筛选条件
+Clear Filters	清除筛选条件
+Add to Favorites	添加到收藏
+Remove from Favorites	从收藏中移除
+Favorites	收藏
+Connectivity	通信接口
+Select Components	选择组件
+Select Software Packs	选择软件包
+Manage Software Packs	管理软件包
+Software Components	软件组件
+Component	组件
+Components	组件
+Dependencies	依赖项
+Resolve	解决
+Resolve Dependencies	解决依赖
+Select	选择
+Select... 	选择...
+Select...	选择...
+Select a folder	选择文件夹
+Browse...	浏览...
+Browse ...	浏览...
+Settings	设置
+Preferences	首选项
+General	常规
+Advanced	高级
+Default	默认
+Restore Defaults	恢复默认值
+Apply and Close	应用并关闭
+Code Generation	代码生成
+Generate code	生成代码
+Initialization	初始化
+Initialization Settings	初始化设置
+Keep current signals placement	保留当前信号位置
+Keep Current Signals Placement	保留当前信号位置
+Show Pin Labels	显示引脚标签
+Show Pin Names	显示引脚名称
+Show User Labels	显示用户标签
+Show Signal Names	显示信号名称
+Reset Pinout	重置引脚分配
+Clear Pinouts	清除引脚分配
+Pinout	引脚分配
+Pinout View	引脚视图
+System View	系统视图
+Reset Configuration	重置配置
+Search Pin or Signal	搜索引脚或信号
+Input frequency	输入频率
+Output frequency	输出频率
+Input Frequency	输入频率
+Output Frequency	输出频率
+Clock Source	时钟源
+Prescaler	预分频器
+Multiplier	倍频系数
+Divider	分频系数
+Clock Resolution	时钟求解
+Resolve Clock Issues	解决时钟问题
+Power Consumption Calculator	功耗计算器
+Power Consumption	功耗
+Power Configuration	电源配置
+Power Settings	电源设置
+Memory Settings	存储器设置
+Compiler Settings	编译器设置
+Optimization	优化
+Use MicroLIB	使用 MicroLIB
+Open Project	打开工程
+Open Folder	打开文件夹
+Source Code	源代码
+Source Files	源文件
+Header Files	头文件
+Include Paths	包含路径
+Build Settings	构建设置
+Warning Messages	警告信息
+Error Messages	错误信息
+Show Details	显示详情
+Hide Details	隐藏详情
+More Details	更多详情
+More Information	更多信息
+Information Center	信息中心

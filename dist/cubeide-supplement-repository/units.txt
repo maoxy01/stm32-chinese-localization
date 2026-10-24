@@ -1,0 +1,11 @@
+local.xinda.zh.com.st.stm32cube.common.projectcreation
+local.xinda.zh.com.st.stm32cube.ide.cmake
+local.xinda.zh.com.st.stm32cube.ide.mcu.buildanalyzer
+local.xinda.zh.com.st.stm32cube.ide.mcu.cyclomaticcomplexity
+local.xinda.zh.com.st.stm32cube.ide.mcu.debug.launch
+local.xinda.zh.com.st.stm32cube.ide.mcu.debug.swv
+local.xinda.zh.com.st.stm32cube.ide.mcu.faultanalyzer
+local.xinda.zh.com.st.stm32cube.ide.mcu.livewatch
+local.xinda.zh.com.st.stm32cube.ide.mcu.sfrview
+local.xinda.zh.com.st.stm32cube.ide.mcu.stackanalyzer
+local.xinda.zh.com.st.stm32cube.ide.mcu.toolchain.ui

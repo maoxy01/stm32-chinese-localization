@@ -1,0 +1,16 @@
+*.class
+*.log
+*.tmp
+*.bak
+build/
+out/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local installation records and vendor-extracted resources.
+installation/
+ide-source/
+*.before-*
+
