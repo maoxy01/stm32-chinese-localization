@@ -1,6 +1,6 @@
 # STM32 中文本地化补充包
 
-面向 Windows x64 的非官方 STM32 简体中文补充包，覆盖三款已处理软件：STM32CubeMX、STM32CubeIDE，以及 STM32CubeProgrammer 套件内的 STM32 Trusted Package Creator。CubeIDE 补充部分以纯资源 OSGi fragment 安装，已知 SWT 问题通过版本锁定的 Java Agent 在运行时规避；Trusted Package Creator 由用户本机的原版 EXE 生成中文副本，仓库不分发 ST 的可执行文件。
+面向 Windows x64 的非官方 STM32 简体中文补充包，覆盖三款已处理软件：STM32CubeMX、STM32CubeIDE，以及 STM32CubeProgrammer 套件内的 STM32 Trusted Package Creator。CubeIDE 补充部分以纯资源 OSGi fragment 安装，已知 SWT 问题通过版本锁定的 Java Agent 在运行时规避；Trusted Package Creator 由作者本机的原版 EXE 生成中文副本，仓库不分发 ST 的可执行文件。
 
 > 本项目不是 STMicroelectronics、Eclipse Foundation 或 CubeMX 汉化工具作者的官方发布。请先阅读 [第三方来源与许可证](THIRD_PARTY_NOTICES.md)。
 
